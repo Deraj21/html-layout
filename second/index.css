@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    padding: 25px;
+}
+.first {
+    border: 5px solid black;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px;
+}
+.first div {
+    display: inline-block;
+}
+#purple {
+    background-color: blueviolet;
+    height: 1.5in;
+    width: .5in;
+}
+#green {
+    background-color: green;
+    height: 2in;
+    width: 4in;
+    margin: 0 50px;
+}
+#circle {
+    background-color: lightblue;
+    height: 2in;
+    width: 2in;
+    border-radius: 1in;
+}
+.second {
+    border: 5px dotted black;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 50px;
+    margin: 25px 0;
+}
+#shadow {
+    background-color: rgb(240, 235, 195);
+    height: 2in;
+    width: 100%;
+    box-shadow: 5px 5px 15px 0 black;
+}
+.third {
+    border: 1px solid lightgrey;
+    height: 3in;
+    width: 50%;
+    margin: 0 auto;
+    box-shadow: 5px 5px 15px 0 lightgrey;
+}
+.third h1 {
+    margin: 20% auto;
+    text-align: center;
+    color: navy;
+    letter-spacing: 10px;
+}

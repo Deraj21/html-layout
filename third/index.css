@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+}
+p {
+    font-size: 16px;
+}
+#blue-square {
+    background-color: rgb(17, 105, 221);
+    height: 50px;
+    width: 50px;
+}
+.rect-one {
+    background-color: lightgrey;
+    padding: 25px;
+}
+.rect-two {
+    background-color: white;
+    padding: 40px 50px;
+}
+.rect-three {
+    background-color: rgb(17, 105, 221);
+    height: 100px;
+}
+.rect-four {
+    background-color: lightseagreen;
+    height: 100px;
+}
+.rect-five {
+    background-color: rgb(192, 235, 144);
+    height: 100px;
+}
+.rect-six {
+    background-color: yellow;
+    height: 100px;
+}
